@@ -23,7 +23,7 @@ Prototipe sistem machine learning telah dibuat dalam bentuk aplikasi web menggun
 
 Aplikasi dapat diakses secara online melalui link berikut:
 
-**Link Aplikasi:** [TEMPELKAN_LINK_APLIKASI_STREAMLIT_ANDA_DI_SINI]
+**Link Aplikasi:** [https://cruxzr7iwodidyg9f49rqp.streamlit.app/]
 
 ## Conclusion
 Berdasarkan analisis data dan pemodelan, terbukti bahwa faktor ekonomi (status pembayaran UKT) dan performa akademik di semester awal (jumlah SKS yang disetujui) adalah prediktor terkuat untuk kasus *dropout* mahasiswa. Model *Random Forest* yang dikembangkan berhasil mencapai performa yang baik (Accuracy ~88%, Recall ~73%) dan mampu menjadi alat bantu yang efektif bagi Jaya Jaya Institut untuk melakukan deteksi dini.
